@@ -15,6 +15,7 @@
         $int2= 2;
         $sum =  $int1 + $int2;
 
+        
         $t = date("H");
         $favcolor = "red";
 
@@ -29,7 +30,7 @@
           echo "<br />";
 
         switch ($favcolor) {
-            
+
         case "red":
             echo "Your favorite color is red!";
             break;
