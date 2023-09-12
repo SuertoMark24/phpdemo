@@ -10,7 +10,9 @@
     <p>Test</p>
     <?php
 
-    
+
+
+
         $fname = "Mark Anthony";
         $lname = "Suerto ";
         $int1 = 1;
