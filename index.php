@@ -9,13 +9,15 @@
 <body>
     <p>Test</p>
     <?php
+
+    
         $fname = "Mark Anthony";
         $lname = "Suerto ";
         $int1 = 1;
         $int2= 2;
         $sum =  $int1 + $int2;
 
-        
+
         $t = date("H");
         $favcolor = "red";
 
